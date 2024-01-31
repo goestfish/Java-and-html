@@ -1,1 +1,1 @@
-Here are the projects I wrote by java and html
+Here are the small programs I wrote by java and html
